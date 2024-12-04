@@ -1,0 +1,15 @@
+# Ignore node_modules folders
+client/node_modules/
+server/node_modules/
+
+# Ignore environment files
+client/.env
+server/.env
+
+# Ignore build files (optional, if React is built)
+client/build/
+
+# Ignore log files and system files
+*.log
+.DS_Store
+
